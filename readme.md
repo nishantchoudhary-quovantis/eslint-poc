@@ -29,9 +29,20 @@ EditorConfig helps maintain consistent coding styles for multiple developers wor
 
 -   editorConfig can be installed as a plugin and can be setup using a `.editorConfig` file to configure our editor with various properties REF:[https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties]
 
+# cool eslint plugins and tools to use with eslint
+
+- [RxJS Linting](https://www.npmjs.com/package/eslint-plugin-rxjs)
+
+- [Various awesome ESLint rules](https://www.npmjs.com/package/eslint-plugin-unicorn)
+
+- [Husky](https://www.npmjs.com/package/husky)
 # references:
 
 [ES Lint for typescript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
+
 [ES Lint with angular](https://blog.briebug.com/blog/convert-angular-project-tslint-eslint)
+
 [Why use ESLint,Prettier and editorConfig](https://blog.theodo.com/2019/08/why-you-should-use-eslint-prettier-and-editorconfig-together/)
+
 [Setup ESLint, Prettier and editorConfig without any conflicts](https://blog.theodo.com/2019/08/empower-your-dev-environment-with-eslint-prettier-and-editorconfig-with-no-conflicts/)
+
